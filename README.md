@@ -1,3 +1,8 @@
+//////////////// DESCRIÇÃO DO PROJETO //////////////// <br>
+O projeto se trata de um mini-chat entre cliente e servidor, incluindo também um sistema de transferência de imagens, que estão localizadas na pasta "imagens" do projeto.
+<br><br><br>
+
+
 //////////////// COMPILAÇÃO DO PROJETO //////////////// <br>
 1. Faça download de qualquer IDE que rode devidamente a linguagem Python, de preferência Visual Studio Code.
 2. Caso tenha baixado o Visual Studio Code, instale a extensão "Python" da Microsoft e "Python Debugger".
