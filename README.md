@@ -1,4 +1,4 @@
-//////////////// DESCRIÇÃO DO PROJETO //////////////// <br>
+//////////////// DESCRIÇÃO DO PROJETO //////////////// <br><br>
 O projeto se trata de um mini-chat entre cliente e servidor, incluindo também um sistema de transferência de imagens, que estão localizadas na pasta "imagens" do projeto.
 <br><br><br>
 
